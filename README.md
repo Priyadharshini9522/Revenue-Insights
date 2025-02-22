@@ -16,3 +16,4 @@ Data Visualization: Power BI
 Collaboration and Presentation: Microsoft Excel
 This project is a demonstration of data-driven strategies that can transform challenges into opportunities for businesses in the hospitality sector.
 Credit goes to : codebasics
+Video explanation: https://youtu.be/1iJJmEPu-tk
